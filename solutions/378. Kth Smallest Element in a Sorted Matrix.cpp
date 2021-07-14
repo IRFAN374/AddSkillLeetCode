@@ -1,49 +1,36 @@
+// using binary search
 class Solution {
 public:
-    // class compByFirst{
-    //     public:
-    //      int operator()(const pair<int,int>&a,const pair<int,int>&b){
-    //          return a.first > b.first;
-    //      }
-    // };
-    struct Point{
-        int val;
-        int row_val;
-        int col_val;
-    };
-    class compByVal{
-        public:
-        int operator()(const Point &p1,const Point &p2){
-            return p1.val > p2.val;
-        }
-    };
     
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-      //priority_queue<pair<int,int> vector<pair<int,int>>, compByFirst)pq;
-      priority_queue<Point,vector<Point>,compByVal>pq;
         int row = matrix.size();
-      int col = matrix[0].size();
-        Point p,temp;
-      for(int i=0;i<row;i++){
-          p.val = matrix[i][0];
-          p.row_val = i;
-          p.col_val = 0;
-          pq.push(p);
-      }
-        k--;
-      while(!pq.empty() && k>0){
-          temp = pq.top();pq.pop();
-          k--;
-          if(temp.row_val<row && temp.col_val<col-1){
-              ++temp.col_val;
-              p.val = matrix[temp.row_val][temp.col_val];
-              p.row_val = temp.row_val;
-              p.col_val = temp.col_val;
-              pq.push(p);
-          }
-          
-      }
-        return pq.top().val;
+        int col = matrix[0].size();
+        int low = matrix[0][0],high= matrix[row-1][col-1];
         
+        while(low<high){
+            int mid = low + (high-low)/2;
+            if(matrixSearchCount(matrix,k,col,mid)){
+                high = mid ;
+            }else{
+                low = mid + 1;
+            }
+        }
+        return low;
     }
+    
+    bool matrixSearchCount(vector<vector<int>>&matrix,int k,int n,int mid){
+        int row =0,col=n-1;
+        int count =0;
+        while(row<n && col>=0){
+            int val = matrix[row][col];
+            if(val>mid){
+                col--;
+            }else{
+                count = count + col + 1;
+                row++;
+            }
+        }
+        return count>=k;
+    }
+    
 };
