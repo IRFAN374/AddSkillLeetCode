@@ -18,6 +18,7 @@
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|0 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|36 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|4 ms|
+|547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[C++](./solutions/547.%20Number%20of%20Provinces.cpp)|16 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|4 ms|
 |719|[ Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[C++](./solutions/719.%20Find%20K-th%20Smallest%20Pair%20Distance.cpp)|12 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
