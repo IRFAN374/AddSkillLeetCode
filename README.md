@@ -10,6 +10,7 @@
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./solutions/74.%20Search%20a%202D%20Matrix.cpp)|0 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|12 ms|
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./solutions/101.%20Symmetric%20Tree.cpp)|0 ms|
+|121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|112 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|0 ms|
 |200|[ Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./solutions/200.%20Number%20of%20Islands.cpp)|16 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./solutions/207.%20Course%20Schedule.cpp)|16 ms|
