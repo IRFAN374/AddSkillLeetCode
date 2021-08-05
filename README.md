@@ -32,6 +32,7 @@
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|4 ms|
 |719|[ Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[C++](./solutions/719.%20Find%20K-th%20Smallest%20Pair%20Distance.cpp)|12 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[C++](./solutions/827.%20Making%20A%20Large%20Island.cpp)|932 ms|
+|877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[C++](./solutions/877.%20Stone%20Game.cpp)|20 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|160 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|32 ms|
 |1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)|124 ms|
