@@ -37,4 +37,5 @@
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|32 ms|
 |1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)|124 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
+|1763|[ Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[C++](./solutions/1763.%20Longest%20Nice%20Substring.cpp)|4 ms|
 |1876|[ Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[C++](./solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.cpp)|0 ms|
