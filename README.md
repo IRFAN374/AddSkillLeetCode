@@ -31,6 +31,7 @@
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|36 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|4 ms|
 |547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[C++](./solutions/547.%20Number%20of%20Provinces.cpp)|16 ms|
+|590|[ N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](./solutions/590.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|20 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|4 ms|
 |719|[ Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[C++](./solutions/719.%20Find%20K-th%20Smallest%20Pair%20Distance.cpp)|12 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[C++](./solutions/827.%20Making%20A%20Large%20Island.cpp)|932 ms|
