@@ -18,6 +18,7 @@
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|0 ms|
 |200|[ Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./solutions/200.%20Number%20of%20Islands.cpp)|16 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./solutions/207.%20Course%20Schedule.cpp)|16 ms|
+|209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|4 ms|
 |210|[ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](./solutions/210.%20Course%20Schedule%20II.cpp)|16 ms|
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)|12 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./solutions/219.%20Contains%20Duplicate%20II.cpp)|152 ms|
