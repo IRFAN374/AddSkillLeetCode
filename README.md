@@ -41,6 +41,7 @@
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|4 ms|
 |664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|356 ms|
 |719|[ Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[C++](./solutions/719.%20Find%20K-th%20Smallest%20Pair%20Distance.cpp)|12 ms|
+|814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./solutions/814.%20Binary%20Tree%20Pruning.cpp)|0 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[C++](./solutions/827.%20Making%20A%20Large%20Island.cpp)|932 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[C++](./solutions/877.%20Stone%20Game.cpp)|20 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|160 ms|
