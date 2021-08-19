@@ -45,6 +45,7 @@
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[C++](./solutions/924.%20Minimize%20Malware%20Spread.cpp)|160 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|32 ms|
 |1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)|124 ms|
+|1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|120 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|124 ms|
 |1763|[ Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[C++](./solutions/1763.%20Longest%20Nice%20Substring.cpp)|4 ms|
