@@ -37,6 +37,7 @@
 |547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[C++](./solutions/547.%20Number%20of%20Provinces.cpp)|16 ms|
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|20 ms|
 |590|[ N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](./solutions/590.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|20 ms|
+|654|[ Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[C++](./solutions/654.%20Maximum%20Binary%20Tree.cpp)|80 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|4 ms|
 |664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|356 ms|
 |719|[ Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[C++](./solutions/719.%20Find%20K-th%20Smallest%20Pair%20Distance.cpp)|12 ms|
