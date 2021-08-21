@@ -49,6 +49,7 @@
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|32 ms|
 |1038|[ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[C++](./solutions/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.cpp)|0 ms|
 |1079|[ Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[C++](./solutions/1079.%20Letter%20Tile%20Possibilities.cpp)|8 ms|
+|1286|[ Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[C++](./solutions/1286.%20Iterator%20for%20Combination.cpp)|12 ms|
 |1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)|124 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|120 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
